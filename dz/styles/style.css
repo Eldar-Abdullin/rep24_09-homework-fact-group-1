@@ -36,3 +36,37 @@
     width: 400px;
 
 }
+
+.name {
+    margin: 0;
+    padding: 0 ;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    background: aqua;
+}
+
+.photo3 {
+        border-radius: 30%;
+        max-width: 300px;
+        image-rendering: pixelated;
+        justify-content: left;
+
+}
+
+.about_student {
+    display: flex;
+    flex-direction: row;
+    background: aqua;
+
+}
+
+.info {
+        margin: 0 auto 0 100px;
+        align-self: center;
+        font-size: 24px;
+        font-weight: bold;
+        color: forestgreen;
+        font-style: oblique;
+
+}
